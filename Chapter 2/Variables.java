@@ -1,6 +1,6 @@
 import java.util.Scanner; // Import Scanner for user input
 
-public class Variables{
+public class Variables {
     public static void main(String[] args) {
         // a) Declare variables c, thisIsAVariable, q76354, and number as type int
         int c, thisIsAVariable, q76354, number;
